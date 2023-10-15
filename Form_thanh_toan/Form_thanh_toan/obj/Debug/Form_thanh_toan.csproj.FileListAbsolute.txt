@@ -1,0 +1,15 @@
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\Form_thanh_toan.exe.config
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\Form_thanh_toan.exe
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\Form_thanh_toan.pdb
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\EntityFramework.dll
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\EntityFramework.SqlServer.dll
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\EntityFramework.xml
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\bin\Debug\EntityFramework.SqlServer.xml
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.csproj.AssemblyReference.cache
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.Form1.resources
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.Properties.Resources.resources
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.csproj.GenerateResource.cache
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.csproj.CoreCompileInputs.cache
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.csproj.CopyComplete
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.exe
+D:\source c#\repos\Form_thanh_toan\Form_thanh_toan\obj\Debug\Form_thanh_toan.pdb
